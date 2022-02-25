@@ -1,4 +1,4 @@
-- 👋 Hi, I’m RushiMThakker
+- 👋 Hi, I’m Rushi M Thakker
 - 👀 I’m interested in adding new skills and work with enthusiastic work force
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on any modern web app involving ML or high scalability
